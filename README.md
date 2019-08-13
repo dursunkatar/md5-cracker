@@ -1,4 +1,4 @@
-# md5-cracker
+# MD5 CRACKER
 md5 cracker
 
 ![md5 cracker](https://github.com/dursunkatar/md5-cracker/blob/master/screen.jpg)
